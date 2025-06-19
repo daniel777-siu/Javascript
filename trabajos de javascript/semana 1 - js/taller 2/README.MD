@@ -1,4 +1,4 @@
-# si
+# Logica
 ### 1. clasificador de triangulos
 ```javascript
 let a = Number(prompt("Escribe el primer lado del triangulo"));
